@@ -1,5 +1,5 @@
 {
-    "name": "datana-gmbh/doctrine-postgres-milliseconds-platform",
+    "name": "oskarstark/doctrine-postgres-milliseconds-platform",
     "type": "library",
     "description": "A Doctrine DBAL platform for Postgres with millisecond support",
     "license": "MIT",
