@@ -3,15 +3,15 @@
 declare(strict_types=1);
 
 /*
- * This file is part of datana-gmbh/doctrine-postgresql-milliseconds-platform package.
+ * This file is part of oskarstark/doctrine-postgres-milliseconds-platform.
  *
- * (c) Datana GmbH <info@datana.rocks>
+ * (c) Oskar Stark <oskarstark@googlemail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
 
-namespace Datana\Doctrine\Postgres\Platform\Tests\Unit\Doctrine\DBAL\Platforms;
+namespace OskarStark\Doctrine\Postgres\Platform\Tests\Unit\Doctrine\DBAL\Platforms;
 
 use Datana\Doctrine\Postgres\Platform\Doctrine\DBAL\Platforms\PostgreSQLMillisecondsPlatform;
 use PHPUnit\Framework\TestCase;

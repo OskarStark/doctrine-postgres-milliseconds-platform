@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Datana\\Doctrine\\Postgres\\Platform\\": "src/"
+            "OskarStark\\Doctrine\\Postgres\\Platform\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Datana\\Doctrine\\Postgres\\Platform\\Tests\\": "tests/"
+            "OskarStark\\Doctrine\\Postgres\\Platform\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "stable",

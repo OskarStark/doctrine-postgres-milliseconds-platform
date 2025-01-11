@@ -9,7 +9,7 @@
 ### Installation
 
 ```bash
-composer require datana-gmbh/doctrine-postgres-milliseconds-platform
+composer require oskarstark/doctrine-postgres-milliseconds-platform
 ```
 
 ### Setup
@@ -24,8 +24,8 @@ doctrine:
         platform_service: Datana\Doctrine\PostgreSQL\Platform\Doctrine\DBAL\Platforms\PostgreSQLMillisecondsPlatform
 ```
 
-[build-status-master-php]: https://github.com/datana-gmbh/doctrine-postgres-milliseconds-platform/workflows/PHP/badge.svg?branch=master
-[coverage-status-master]: https://codecov.io/gh/datana-gmbh/doctrine-postgres-milliseconds-platform/branch/master/graph/badge.svg
+[build-status-master-php]: https://github.com/oskarstark/doctrine-postgres-milliseconds-platform/workflows/PHP/badge.svg?branch=master
+[coverage-status-master]: https://codecov.io/gh/oskarstark/doctrine-postgres-milliseconds-platform/branch/master/graph/badge.svg
 
-[actions]: https://github.com/datana-gmbh/doctrine-postgres-milliseconds-platform/actions
-[codecov]: https://codecov.io/gh/datana-gmbh/doctrine-postgres-milliseconds-platform
+[actions]: https://github.com/oskarstark/doctrine-postgres-milliseconds-platform/actions
+[codecov]: https://codecov.io/gh/oskarstark/doctrine-postgres-milliseconds-platform
