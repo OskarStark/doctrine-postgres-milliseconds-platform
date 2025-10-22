@@ -16,10 +16,10 @@
     "require-dev": {
         "ergebnis/composer-normalize": "^2.2",
         "ergebnis/test-util": "^1.5",
-        "friendsofphp/php-cs-fixer": "^2.19",
+        "friendsofphp/php-cs-fixer": "^3.0",
         "phpstan/extension-installer": "^1.0",
-        "phpstan/phpstan": "^0.12.14",
-        "phpstan/phpstan-webmozart-assert": "^0.12.2",
+        "phpstan/phpstan": "^1.8",
+        "phpstan/phpstan-webmozart-assert": "^1.0",
         "phpunit/phpunit": "^9.0"
     },
     "config": {
