@@ -19,6 +19,6 @@ final class PostgreSQLMillisecondsPlatform extends PostgreSQL100Platform
 {
     public function getDateTimeFormatString(): string
     {
-        return sprintf('%s.u', parent::getDateTimeFormatString());
+        return \sprintf('%s.u', parent::getDateTimeFormatString());
     }
 }

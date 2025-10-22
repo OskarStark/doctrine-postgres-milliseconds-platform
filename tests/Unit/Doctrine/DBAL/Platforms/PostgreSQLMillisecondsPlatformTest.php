@@ -13,7 +13,7 @@ declare(strict_types=1);
 
 namespace OskarStark\Doctrine\Postgres\Platform\Tests\Unit\Doctrine\DBAL\Platforms;
 
-use Datana\Doctrine\Postgres\Platform\Doctrine\DBAL\Platforms\PostgreSQLMillisecondsPlatform;
+use OskarStark\Doctrine\Postgres\Platform\Doctrine\DBAL\Platforms\PostgreSQLMillisecondsPlatform;
 use PHPUnit\Framework\TestCase;
 
 final class PostgreSQLMillisecondsPlatformTest extends TestCase
