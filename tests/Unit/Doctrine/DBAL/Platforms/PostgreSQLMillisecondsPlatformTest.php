@@ -26,7 +26,7 @@ final class PostgreSQLMillisecondsPlatformTest extends TestCase
         $platform = new PostgreSQLMillisecondsPlatform();
 
         self::assertSame(
-            'Y-m-d H:i:s.u',
+            'Y-m-d H:i:s.v',
             $platform->getDateTimeFormatString(),
         );
     }
